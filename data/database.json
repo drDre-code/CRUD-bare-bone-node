@@ -1,0 +1,20 @@
+[
+ {
+  "id": 1,
+  "organization": "Decagon",
+  "createdAt": "2021-07-31T19:10:32.015Z",
+  "updatedAt": "2021-07-31T19:10:32.015Z",
+  "products": [
+   "developers"
+  ],
+  "marketValue": "83%",
+  "address": "sangotedo",
+  "ceo": "cn",
+  "country": "Nigeria",
+  "noOfEmployees": 2,
+  "employees": [
+   "bond",
+   "ome"
+  ]
+ }
+]
